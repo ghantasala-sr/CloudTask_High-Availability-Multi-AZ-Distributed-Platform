@@ -4,7 +4,7 @@ A production-grade three-tier web application deployed on AWS using **Terraform*
 
 ## Architecture
 
-![System Architecture](system_arch.png)
+![System Architecture](System_arch.png)
 
 ## Traffic Flow
 
