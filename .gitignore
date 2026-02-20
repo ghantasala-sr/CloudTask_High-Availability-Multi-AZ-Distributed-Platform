@@ -1,0 +1,38 @@
+# Terraform state files — contain sensitive info and resource IDs
+*.tfstate
+*.tfstate.*
+
+# Terraform state backup
+*.tfstate.backup
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Variable files with secrets (passwords, keys)
+terraform.tfvars
+*.auto.tfvars
+
+# Override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Terraform plugin/provider binaries (downloaded by terraform init)
+.terraform/
+.terraform.lock.hcl
+
+# CLI configuration files
+.terraformrc
+terraform.rc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
