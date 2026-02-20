@@ -159,4 +159,3 @@ Running this architecture costs approximately **$3-5/hour** (mainly NAT Gateway 
 
 **Srinivasa Rithik Ghantasala**  
 MS Information Systems, Northeastern University  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
